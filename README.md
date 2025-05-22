@@ -26,9 +26,9 @@ This project analyzes simulated sports betting behavior among college students u
 - Football and Basketball are the most popular sports
 
 ## Dashboard Preview
-![Demographics](screenshots/demographics_overview.png)
-![Betting Trends](screenshots/betting_trends.png)
-![Behavioral Segments](screenshots/behavioral_segments.png)
+![Demographics](Demographics%20Overview.png)
+![Betting Trends](Betting%20Trends%20Overview.png)
+![Behavioral Segments](Behavioral%20Risk%20Segments.png)
 
 ## Author
 Jeremiah Isichei – 2025
