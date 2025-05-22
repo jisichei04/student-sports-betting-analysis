@@ -10,7 +10,7 @@ This project analyzes simulated sports betting behavior among college students u
 ## Project Files
 - `Student_Betting_Dashboard.pbix` – Interactive dashboard
 - `finalized_student_sports_betting_data.csv` – Clean dataset
-- `mysql_queries.sql` – SQL views for analysis
+- `queries.sql` – SQL views for analysis
 - Python scripts:
   - `cleaning.py`
   - `DataAnalysis_Summaries.py`
