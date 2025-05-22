@@ -1,0 +1,201 @@
+student_id,age,gender,major,academic_year,weekly_bets,avg_bet_amount,favorite_sport,impulsivity_score,total_spent_per_week
+S0001,24,Male,Engineering,Junior,2,18.69,Esports,5.9,37.38
+S0002,21,Female,Biology,Freshman,3,9.65,Baseball,3.6,28.950000000000003
+S0003,22,Male,Economics,Freshman,1,18.1,Esports,9.0,18.1
+S0004,24,Female,Psychology,Junior,2,24.48,Baseball,5.3,48.96
+S0005,20,Female,Biology,Freshman,3,14.11,Esports,4.3,42.33
+S0006,25,Male,Engineering,Senior,2,20.09,Soccer,5.4,40.18
+S0007,22,Male,Computer Science,Junior,4,21.39,Tennis,2.3,85.56
+S0008,22,Female,Biology,Freshman,3,24.53,Soccer,3.1,73.59
+S0009,24,Male,Computer Science,Freshman,4,18.66,Basketball,7.4,74.64
+S0010,19,Male,Economics,Senior,1,30.86,Soccer,3.7,30.86
+S0011,20,Male,Psychology,Sophomore,1,1.0,Football,2.9,1.0
+S0012,24,Male,Business,Sophomore,1,49.38,Basketball,6.1,49.38
+S0013,20,Female,Psychology,Senior,2,11.29,Esports,7.4,22.58
+S0014,20,Female,Biology,Senior,2,24.03,Basketball,6.4,48.06
+S0015,25,Female,Computer Science,Senior,5,10.62,Tennis,7.0,53.099999999999994
+S0016,22,Female,Computer Science,Senior,5,26.44,Baseball,3.5,132.20000000000002
+S0017,21,Female,Engineering,Sophomore,2,22.77,Esports,2.2,45.54
+S0018,25,Male,Computer Science,Freshman,2,13.49,Basketball,8.0,26.98
+S0019,25,Female,Engineering,Senior,3,30.73,Esports,4.4,92.19
+S0020,20,Female,Economics,Junior,2,18.36,Esports,4.5,36.72
+S0021,23,Female,Business,Sophomore,1,25.47,Esports,7.7,25.47
+S0022,22,Female,Biology,Senior,2,10.83,Baseball,6.1,21.66
+S0023,19,Male,Engineering,Freshman,5,19.69,Soccer,5.9,98.45
+S0024,25,Male,Business,Sophomore,5,40.03,Esports,9.3,200.15
+S0025,21,Male,Computer Science,Freshman,3,29.63,Football,3.7,88.89
+S0026,23,Male,Computer Science,Sophomore,4,23.08,Tennis,6.9,92.32
+S0027,23,Female,Business,Freshman,1,15.51,Baseball,5.1,15.51
+S0028,19,Female,Computer Science,Freshman,3,20.67,Basketball,5.5,62.010000000000005
+S0029,25,Male,Economics,Freshman,4,21.98,Baseball,8.1,87.92
+S0030,21,Female,Economics,Junior,3,24.49,Basketball,6.0,73.47
+S0031,22,Male,Business,Junior,3,9.23,Baseball,6.1,27.69
+S0032,18,Male,Engineering,Junior,3,26.68,Basketball,7.1,80.03999999999999
+S0033,21,Male,Engineering,Senior,3,9.1,Esports,4.3,27.299999999999997
+S0034,19,Male,Business,Sophomore,5,36.31,Soccer,3.3,181.55
+S0035,23,Female,Engineering,Sophomore,3,12.28,Basketball,2.9,36.839999999999996
+S0036,22,Male,Engineering,Senior,5,22.97,Basketball,1.1,114.85
+S0037,21,Female,Economics,Freshman,2,30.05,Football,9.1,60.1
+S0038,18,Female,Engineering,Senior,2,17.48,Basketball,2.8,34.96
+S0039,18,Male,Psychology,Freshman,5,23.41,Football,4.6,117.05
+S0040,20,Other,Biology,Senior,3,34.35,Tennis,4.4,103.05000000000001
+S0041,20,Other,Computer Science,Freshman,3,25.64,Esports,5.6,76.92
+S0042,24,Male,Psychology,Senior,3,23.56,Football,6.6,70.67999999999999
+S0043,19,Male,Engineering,Junior,6,3.15,Soccer,6.7,18.9
+S0044,25,Male,Economics,Senior,6,10.66,Esports,3.8,63.96
+S0045,21,Male,Business,Freshman,3,30.47,Football,4.7,91.41
+S0046,21,Male,Engineering,Junior,5,25.7,Esports,5.6,128.5
+S0047,25,Female,Economics,Senior,2,27.21,Esports,4.5,54.42
+S0048,24,Female,Biology,Junior,4,26.35,Esports,8.2,105.4
+S0049,23,Male,Engineering,Junior,3,32.9,Tennis,6.0,98.69999999999999
+S0050,23,Male,Business,Junior,2,17.39,Soccer,6.5,34.78
+S0051,24,Female,Economics,Sophomore,4,21.2,Baseball,6.3,84.8
+S0052,23,Male,Economics,Junior,1,9.71,Baseball,7.3,9.71
+S0053,20,Male,Economics,Junior,3,7.22,Football,5.4,21.66
+S0054,21,Male,Biology,Senior,1,3.56,Esports,2.4,3.56
+S0055,24,Other,Engineering,Freshman,3,11.15,Football,5.8,33.45
+S0056,21,Male,Biology,Sophomore,3,35.53,Tennis,3.7,106.59
+S0057,25,Female,Computer Science,Senior,1,4.47,Tennis,3.9,4.47
+S0058,18,Female,Computer Science,Senior,2,16.96,Basketball,6.2,33.92
+S0059,20,Male,Engineering,Sophomore,4,7.07,Tennis,7.5,28.28
+S0060,22,Female,Biology,Junior,2,13.99,Basketball,5.0,27.98
+S0061,20,Male,Business,Sophomore,5,21.7,Soccer,5.6,108.5
+S0062,24,Female,Economics,Freshman,0,13.0,Football,8.4,0.0
+S0063,22,Female,Economics,Sophomore,3,30.9,Soccer,5.5,92.69999999999999
+S0064,18,Female,Engineering,Sophomore,2,35.34,Tennis,10.0,70.68
+S0065,24,Male,Computer Science,Junior,0,1.0,Soccer,6.1,0.0
+S0066,19,Female,Computer Science,Freshman,2,13.17,Soccer,1.5,26.34
+S0067,21,Male,Economics,Senior,2,20.59,Soccer,6.5,41.18
+S0068,18,Male,Engineering,Senior,4,31.26,Tennis,5.8,125.04
+S0069,21,Male,Biology,Junior,2,15.46,Esports,7.6,30.92
+S0070,23,Female,Computer Science,Junior,1,19.8,Soccer,6.3,19.8
+S0071,19,Female,Biology,Sophomore,1,8.43,Basketball,4.7,8.43
+S0072,19,Male,Computer Science,Senior,0,4.67,Tennis,2.6,0.0
+S0073,18,Female,Computer Science,Junior,2,34.45,Soccer,4.6,68.9
+S0074,19,Male,Psychology,Freshman,4,1.76,Esports,3.3,7.04
+S0075,22,Female,Computer Science,Senior,3,43.29,Tennis,3.8,129.87
+S0076,19,Male,Business,Senior,5,27.25,Baseball,6.2,136.25
+S0077,21,Female,Engineering,Senior,5,26.8,Esports,8.3,134.0
+S0078,21,Male,Engineering,Junior,3,25.75,Basketball,5.8,77.25
+S0079,24,Female,Biology,Junior,4,17.47,Soccer,2.6,69.88
+S0080,21,Male,Computer Science,Sophomore,1,23.92,Baseball,5.9,23.92
+S0081,24,Male,Business,Senior,3,18.11,Baseball,7.4,54.33
+S0082,21,Male,Biology,Senior,4,25.53,Tennis,3.8,102.12
+S0083,22,Female,Psychology,Freshman,4,19.66,Baseball,4.7,78.64
+S0084,25,Female,Biology,Freshman,3,10.5,Basketball,5.0,31.5
+S0085,24,Male,Biology,Sophomore,2,11.29,Basketball,3.4,22.58
+S0086,20,Female,Computer Science,Senior,2,10.16,Football,6.3,20.32
+S0087,23,Female,Psychology,Senior,3,29.71,Basketball,4.8,89.13
+S0088,18,Female,Biology,Freshman,3,13.83,Esports,5.8,41.49
+S0089,21,Female,Business,Junior,4,1.0,Baseball,3.2,4.0
+S0090,19,Male,Business,Sophomore,0,23.97,Basketball,4.1,0.0
+S0091,25,Male,Engineering,Senior,2,35.15,Tennis,6.4,70.3
+S0092,21,Female,Psychology,Senior,4,27.73,Football,4.3,110.92
+S0093,19,Female,Psychology,Senior,2,13.97,Baseball,8.5,27.94
+S0094,23,Female,Engineering,Sophomore,4,4.13,Football,4.2,16.52
+S0095,23,Male,Biology,Sophomore,3,18.66,Baseball,5.4,55.980000000000004
+S0096,23,Male,Psychology,Sophomore,2,18.41,Tennis,6.9,36.82
+S0097,19,Female,Business,Freshman,3,10.31,Football,2.2,30.93
+S0098,21,Female,Business,Senior,7,25.51,Soccer,1.5,178.57000000000002
+S0099,23,Female,Computer Science,Senior,3,38.47,Esports,1.9,115.41
+S0100,22,Female,Psychology,Senior,5,22.22,Esports,7.5,111.1
+S0101,24,Female,Biology,Senior,8,21.6,Baseball,3.9,172.8
+S0102,19,Male,Engineering,Junior,1,10.63,Soccer,10.0,10.63
+S0103,19,Male,Engineering,Senior,2,33.97,Football,3.9,67.94
+S0104,21,Female,Biology,Senior,2,19.25,Soccer,5.4,38.5
+S0105,19,Female,Economics,Senior,1,14.21,Soccer,8.1,14.21
+S0106,19,Male,Computer Science,Freshman,3,20.64,Football,9.0,61.92
+S0107,23,Male,Engineering,Sophomore,4,24.72,Tennis,9.1,98.88
+S0108,21,Female,Psychology,Freshman,1,21.39,Soccer,7.4,21.39
+S0109,23,Male,Computer Science,Senior,7,32.06,Soccer,7.0,224.42000000000002
+S0110,24,Male,Psychology,Junior,6,23.84,Tennis,6.2,143.04
+S0111,25,Female,Business,Freshman,2,17.16,Soccer,6.6,34.32
+S0112,24,Female,Computer Science,Junior,2,24.01,Soccer,3.9,48.02
+S0113,25,Female,Engineering,Junior,1,25.0,Soccer,3.4,25.0
+S0114,23,Male,Computer Science,Sophomore,0,7.04,Esports,5.0,0.0
+S0115,24,Female,Computer Science,Freshman,4,31.49,Basketball,4.7,125.96
+S0116,21,Male,Computer Science,Junior,3,16.99,Tennis,4.1,50.97
+S0117,18,Male,Economics,Junior,4,17.25,Soccer,6.4,69.0
+S0118,23,Female,Computer Science,Senior,5,27.51,Esports,6.9,137.55
+S0119,25,Female,Psychology,Junior,1,27.47,Tennis,5.2,27.47
+S0120,22,Female,Business,Senior,1,12.99,Baseball,8.0,12.99
+S0121,25,Female,Biology,Junior,2,28.03,Baseball,2.7,56.06
+S0122,22,Female,Computer Science,Junior,6,14.4,Soccer,4.6,86.4
+S0123,19,Male,Engineering,Senior,3,38.2,Esports,3.6,114.60000000000001
+S0124,24,Male,Computer Science,Sophomore,3,11.72,Esports,1.3,35.160000000000004
+S0125,22,Male,Engineering,Freshman,2,22.39,Tennis,4.8,44.78
+S0126,25,Male,Psychology,Freshman,6,12.18,Tennis,4.8,73.08
+S0127,19,Other,Engineering,Senior,1,42.23,Esports,8.0,42.23
+S0128,18,Male,Biology,Junior,3,7.62,Tennis,6.3,22.86
+S0129,21,Female,Business,Junior,1,25.24,Esports,3.0,25.24
+S0130,21,Female,Engineering,Freshman,2,12.65,Basketball,8.7,25.3
+S0131,21,Female,Engineering,Freshman,4,16.46,Esports,7.4,65.84
+S0132,22,Female,Business,Freshman,5,24.54,Baseball,6.2,122.69999999999999
+S0133,18,Female,Biology,Sophomore,8,32.25,Tennis,4.5,258.0
+S0134,22,Male,Computer Science,Junior,2,36.23,Esports,3.1,72.46
+S0135,24,Male,Engineering,Sophomore,2,4.63,Esports,4.3,9.26
+S0136,22,Female,Business,Sophomore,4,22.68,Tennis,7.2,90.72
+S0137,18,Male,Psychology,Senior,0,34.59,Basketball,8.8,0.0
+S0138,18,Male,Business,Sophomore,4,3.15,Basketball,8.1,12.6
+S0139,24,Female,Psychology,Junior,3,23.14,Tennis,4.0,69.42
+S0140,18,Male,Biology,Senior,6,19.98,Football,2.8,119.88
+S0141,25,Female,Computer Science,Sophomore,2,24.15,Tennis,5.3,48.3
+S0142,18,Other,Business,Junior,2,12.28,Tennis,1.5,24.56
+S0143,21,Female,Economics,Senior,3,5.64,Basketball,5.6,16.919999999999998
+S0144,25,Male,Engineering,Senior,6,1.0,Basketball,4.7,6.0
+S0145,25,Male,Biology,Freshman,0,29.76,Tennis,4.1,0.0
+S0146,24,Female,Business,Senior,4,31.04,Tennis,1.8,124.16
+S0147,20,Male,Engineering,Sophomore,4,23.03,Tennis,6.0,92.12
+S0148,20,Other,Business,Sophomore,3,14.66,Basketball,3.9,43.980000000000004
+S0149,18,Other,Psychology,Sophomore,4,3.77,Tennis,2.7,15.08
+S0150,25,Female,Business,Senior,4,25.63,Tennis,1.0,102.52
+S0151,20,Male,Economics,Sophomore,4,8.99,Soccer,4.9,35.96
+S0152,20,Male,Business,Sophomore,1,12.89,Football,8.5,12.89
+S0153,18,Female,Business,Junior,5,14.13,Baseball,8.3,70.65
+S0154,20,Male,Economics,Freshman,6,18.02,Football,4.1,108.12
+S0155,22,Male,Biology,Freshman,0,12.41,Soccer,3.8,0.0
+S0156,19,Female,Business,Freshman,4,20.33,Baseball,5.9,81.32
+S0157,24,Female,Economics,Freshman,2,13.78,Tennis,3.0,27.56
+S0158,19,Female,Engineering,Freshman,2,27.01,Soccer,5.6,54.02
+S0159,18,Female,Psychology,Freshman,3,30.31,Tennis,6.5,90.92999999999999
+S0160,21,Male,Psychology,Junior,1,21.09,Basketball,7.5,21.09
+S0161,24,Female,Business,Freshman,1,24.63,Esports,4.8,24.63
+S0162,18,Other,Biology,Sophomore,5,41.18,Soccer,4.6,205.9
+S0163,25,Male,Biology,Senior,0,8.27,Basketball,3.2,0.0
+S0164,21,Female,Engineering,Sophomore,2,7.67,Soccer,3.3,15.34
+S0165,19,Female,Business,Junior,3,26.95,Soccer,4.5,80.85
+S0166,18,Female,Psychology,Freshman,2,39.47,Basketball,5.7,78.94
+S0167,25,Female,Biology,Freshman,2,17.4,Baseball,6.8,34.8
+S0168,24,Female,Business,Freshman,1,37.27,Football,3.4,37.27
+S0169,24,Male,Biology,Freshman,1,20.96,Tennis,8.0,20.96
+S0170,23,Male,Economics,Sophomore,3,13.19,Soccer,4.5,39.57
+S0171,25,Female,Biology,Freshman,1,10.09,Tennis,5.0,10.09
+S0172,22,Female,Psychology,Freshman,2,26.29,Esports,3.5,52.58
+S0173,20,Female,Computer Science,Freshman,0,10.85,Basketball,1.0,0.0
+S0174,21,Female,Engineering,Sophomore,1,20.81,Tennis,6.8,20.81
+S0175,25,Female,Engineering,Freshman,7,35.83,Basketball,6.5,250.81
+S0176,23,Female,Psychology,Sophomore,6,16.93,Tennis,4.4,101.58
+S0177,20,Female,Biology,Junior,1,33.14,Football,5.1,33.14
+S0178,20,Female,Business,Junior,1,7.85,Football,6.0,7.85
+S0179,18,Female,Biology,Freshman,4,14.66,Football,1.9,58.64
+S0180,20,Female,Psychology,Senior,5,5.93,Football,3.9,29.65
+S0181,22,Female,Engineering,Junior,5,20.73,Football,6.6,103.65
+S0182,24,Male,Biology,Freshman,0,27.8,Football,2.5,0.0
+S0183,23,Male,Engineering,Senior,5,20.75,Basketball,5.6,103.75
+S0184,20,Male,Business,Senior,3,32.27,Soccer,2.3,96.81
+S0185,18,Female,Engineering,Freshman,7,12.51,Tennis,5.9,87.57
+S0186,22,Male,Engineering,Sophomore,3,22.25,Football,4.9,66.75
+S0187,19,Male,Computer Science,Senior,3,14.73,Basketball,1.8,44.19
+S0188,24,Female,Computer Science,Junior,3,23.62,Basketball,7.3,70.86
+S0189,24,Male,Economics,Freshman,4,25.04,Basketball,3.5,100.16
+S0190,23,Female,Computer Science,Freshman,4,25.82,Soccer,3.4,103.28
+S0191,24,Male,Engineering,Sophomore,3,9.29,Tennis,5.4,27.869999999999997
+S0192,20,Male,Psychology,Sophomore,3,11.1,Soccer,7.3,33.3
+S0193,18,Female,Engineering,Junior,3,12.96,Baseball,3.0,38.88
+S0194,24,Male,Psychology,Sophomore,2,17.61,Basketball,5.1,35.22
+S0195,24,Male,Psychology,Sophomore,4,20.87,Baseball,5.9,83.48
+S0196,19,Female,Computer Science,Junior,1,27.08,Esports,6.4,27.08
+S0197,19,Female,Biology,Freshman,0,11.52,Football,5.4,0.0
+S0198,21,Male,Business,Sophomore,7,3.99,Football,4.3,27.93
+S0199,22,Female,Computer Science,Junior,1,41.56,Soccer,3.3,41.56
+S0200,20,Male,Computer Science,Senior,1,8.69,Tennis,5.2,8.69
